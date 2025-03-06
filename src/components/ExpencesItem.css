@@ -38,7 +38,7 @@ background-color: #34595e;
     border-radius: 12px;
 }
 
-@media (min-wdth:580px){
+@media (min-width:580px){
 
 .expence-item-descripiton{
 flex-direction: row;
